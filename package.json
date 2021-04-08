@@ -1,0 +1,36 @@
+{
+  "name": "htmlcoin-explorer",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the HTMLCOIN network and build your own services with it.",
+  "version": "1.0.1",
+  "repository": "https://github.com/bytesalt/htmlcoin-explorer.git",
+  "contributors": [],
+  "bugs": {
+    "url": "https://github.com/bytesalt/htmlcoin-explorer/issues"
+  },
+  "homepage": "https://github.com/bytesalt/htmlcoin-explorer",
+  "license": "MIT",
+  "keywords": [
+    "insight",
+    "blockchain",
+    "blockexplorer",
+    "htmlcoin",
+    "htmlcoincore",
+    "front-end"
+  ],
+  "htmlcoincoreNode": "htmlcoincore-node",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "^1.18.12",
+    "grunt": "^1.3.0",
+    "grunt-cli": "^1.4.2",
+    "grunt-contrib-jshint": "^3.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^5.0.1",
+    "grunt-contrib-watch": "*",
+    "grunt-macreload": "*",
+    "grunt-css": "~0.5.4",
+    "grunt-markdown": "~0.7.0",
+    "grunt-angular-gettext": "^2.5.3"
+  }
+}
